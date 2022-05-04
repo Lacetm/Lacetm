@@ -13,6 +13,8 @@ Sou apaixonado por tecnologia e computação, além de Heavy Metal e Pinguins. E
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px"/>
 </div>
 <hr>
+
+![Lacetm's Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Lacetm&theme=radical)
           
           
           
