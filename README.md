@@ -1,6 +1,7 @@
-<strong>Olá, Mundo!</strong> Meu nome é Marcos Lacet (Ou só Lacet para abreviar), atualmente estou estudando Front-End, mas já tive algumas experiências com Python.
-Sou apaixonado por tecnologia e computação, além de Heavy Metal e Pinguins. Espero te encontrar por aí nessa jornada!
+Hey-yo, me chamo <strong>Marcos Lacet</strong>! Aqui você pode encontrar um pouco do meu trabalho, além de outros links úteis! Sinta-se à vontade para me contactar para mais informações
+         
 <br>
+
 
 ![Lacetm's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lacetm&show_icons=true&theme=radical)
 
