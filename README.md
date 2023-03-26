@@ -1,4 +1,4 @@
-Hey-yo, me chamo <strong>Marcos Lacet</strong>! Aqui você pode encontrar um pouco do meu trabalho, além de outros links úteis! Sinta-se à vontade para me contactar para mais informações
+Hey-yo, me chamo <strong>Marcos Lacet</strong>! Aqui você pode encontrar um pouco do meu trabalho, além de outros links úteis! Sinta-se à vontade para entrar em contato! 
          
 <br>
 
